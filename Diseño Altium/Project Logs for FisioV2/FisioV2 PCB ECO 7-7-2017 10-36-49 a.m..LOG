@@ -1,0 +1,54 @@
+Change Component Footprint: Designator=C48 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=C51 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=R9 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=R33 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=L2 Old Footprint=INDC1608L New Footprint=0805
+Change Component Footprint: Designator=L3 Old Footprint=INDC1608L New Footprint=0805
+Added Component: Designator=J5(JUMPER3)
+Added Component: Designator=J6(JUMPER3)
+Added Component: Designator=J7(JUMPER3)
+Added Component: Designator=J8(JUMPER3)
+Added Pin To Net: NetName=NetC4_1 Pin=J5-3
+Added Pin To Net: NetName=NetC4_1 Pin=J6-3
+Added Pin To Net: NetName=NetC4_1 Pin=J7-3
+Added Pin To Net: NetName=NetC4_1 Pin=J8-3
+Added Pin To Net: NetName=NetJ5_1 Pin=J5-1
+Added Net: Name=NetJ5_1
+Added Pin To Net: NetName=NetJ5_2 Pin=J5-2
+Added Pin To Net: NetName=NetJ5_2 Pin=U1-8
+Added Net: Name=NetJ5_2
+Added Pin To Net: NetName=NetJ6_1 Pin=J6-1
+Added Net: Name=NetJ6_1
+Added Pin To Net: NetName=NetJ6_2 Pin=J6-2
+Added Pin To Net: NetName=NetJ6_2 Pin=U1-6
+Added Net: Name=NetJ6_2
+Added Pin To Net: NetName=NetJ7_1 Pin=J7-1
+Added Net: Name=NetJ7_1
+Added Pin To Net: NetName=NetJ7_2 Pin=J7-2
+Added Pin To Net: NetName=NetJ7_2 Pin=U1-4
+Added Net: Name=NetJ7_2
+Added Pin To Net: NetName=NetJ8_1 Pin=J8-1
+Added Net: Name=NetJ8_1
+Added Pin To Net: NetName=NetJ8_2 Pin=J8-2
+Added Pin To Net: NetName=NetJ8_2 Pin=U1-2
+Added Net: Name=NetJ8_2
+Added Pin To Net: NetName=NetU1_1 Pin=U1-1
+Added Net: Name=NetU1_1
+Added Pin To Net: NetName=NetU1_3 Pin=U1-3
+Added Net: Name=NetU1_3
+Added Pin To Net: NetName=NetU1_5 Pin=U1-5
+Added Net: Name=NetU1_5
+Added Pin To Net: NetName=NetU1_7 Pin=U1-7
+Added Net: Name=NetU1_7
+Added Member To Class: ClassName=ADS Member=Component J5 JUMPER
+Added Member To Class: ClassName=ADS Member=Component J6 JUMPER
+Added Member To Class: ClassName=ADS Member=Component J7 JUMPER
+Added Member To Class: ClassName=ADS Member=Component J8 JUMPER
+Added Room: Name=ADS
+Added Room: Name=AFE
+Added Room: Name=Bluetooth
+Added Room: Name=Microcontroller
+Added Room: Name=Peripherials
+Added Room: Name=Power Supply
+Added Room: Name=Supply
+Added Room: Name=TopSheet

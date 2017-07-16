@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=R23 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=R24 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=R25 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=R34 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=R35 Old Footprint=0603 New Footprint=0805
+Added Room: Name=ADS
+Added Room: Name=AFE
+Added Room: Name=Bluetooth
+Added Room: Name=Microcontroller
+Added Room: Name=Peripherials
+Added Room: Name=Power Supply
+Added Room: Name=Supply
+Added Room: Name=TopSheet

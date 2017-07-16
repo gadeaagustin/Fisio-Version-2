@@ -1,0 +1,19 @@
+Change Component Footprint: Designator=C28 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=C29 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=C30 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=C31 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=C32 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=C33 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=C34 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=C35 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=C36 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=C37 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=C38 Old Footprint=0603 New Footprint=0805
+Added Room: Name=ADS
+Added Room: Name=AFE
+Added Room: Name=Bluetooth
+Added Room: Name=Microcontroller
+Added Room: Name=Peripherials
+Added Room: Name=Power Supply
+Added Room: Name=Supply
+Added Room: Name=TopSheet
