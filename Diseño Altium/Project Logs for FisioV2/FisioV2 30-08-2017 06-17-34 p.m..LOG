@@ -1,0 +1,17 @@
+Added Component: Designator=J1(SIP8)
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=RESET Pin=J1-3
+Added Pin To Net: NetName=JTAG_TDI Pin=J1-4
+Added Pin To Net: NetName=JTAG_SWO Pin=J1-5
+Added Pin To Net: NetName=JTAG_SWCLK Pin=J1-6
+Added Pin To Net: NetName=JTAG_SWDIO Pin=J1-7
+Added Pin To Net: NetName=VDD Pin=J1-8
+Added Member To Class: ClassName=Supply Member=Component J1 JTAG
+Added Room: Name=ADS
+Added Room: Name=AFE
+Added Room: Name=Bluetooth
+Added Room: Name=Microcontroller
+Added Room: Name=Peripherials
+Added Room: Name=Power Supply
+Added Room: Name=Supply
+Added Room: Name=TopSheet

@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=BT_TX Pin=J9-1
+Removed Pin From Net: NetName=BT_RX Pin=J9-2
+Removed Pin From Net: NetName=GND Pin=J9-3
+Removed Pin From Net: NetName=VDD Pin=J9-4
+Removed Pin From Net: NetName=BT_KEY Pin=J9-5
+Change Component DesignItemId : Designator=J9 Old DesignItemId=CON5 New DesignItemId=CON6
+Added Pin To Net: NetName=BT_TX Pin=J9-2
+Added Pin To Net: NetName=BT_RX Pin=J9-3
+Added Pin To Net: NetName=GND Pin=J9-4
+Added Pin To Net: NetName=VDD Pin=J9-5
+Added Pin To Net: NetName=BT_KEY Pin=J9-6
+Added Room: Name=ADS
+Added Room: Name=AFE
+Added Room: Name=Bluetooth
+Added Room: Name=Microcontroller
+Added Room: Name=Peripherials
+Added Room: Name=Power Supply
+Added Room: Name=Supply
+Added Room: Name=TopSheet

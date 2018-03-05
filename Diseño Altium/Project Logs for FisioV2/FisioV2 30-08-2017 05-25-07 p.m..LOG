@@ -1,0 +1,20 @@
+Change Component Footprint: Designator=J9 Old Footprint=SIP8 New Footprint=SIP6
+Change Component Designator: OldDesignator=AVDD NewDesignator=TP9
+Change Component Designator: OldDesignator=AVREF NewDesignator=TP8
+Change Component Designator: OldDesignator=AVSS NewDesignator=TP11
+Change Component Designator: OldDesignator=C11_2 NewDesignator=TP2
+Change Component Designator: OldDesignator=GND NewDesignator=TP10
+Change Component Designator: OldDesignator=LDO3V3 NewDesignator=TP6
+Change Component Designator: OldDesignator=R25_2 NewDesignator=TP3
+Change Component Designator: OldDesignator=TP1_1 NewDesignator=TP1
+Change Component Designator: OldDesignator=Vbout NewDesignator=TP5
+Change Component Designator: OldDesignator=VBUS NewDesignator=TP4
+Change Component Designator: OldDesignator=VDD NewDesignator=TP7
+Added Room: Name=ADS
+Added Room: Name=AFE
+Added Room: Name=Bluetooth
+Added Room: Name=Microcontroller
+Added Room: Name=Peripherials
+Added Room: Name=Power Supply
+Added Room: Name=Supply
+Added Room: Name=TopSheet
